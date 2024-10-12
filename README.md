@@ -64,3 +64,16 @@ GO
 
 4. Al terminar de ejecutar la migracion, es volver a poner el proyecto de inicio a "Productos.WebApi" 
 
+Nota: si llega a ver algun problema con la migracion, crear la tabla manualmente:
+
+```bash
+CREATE TABLE Product (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(100) NOT NULL,
+    Description NVARCHAR(255),
+    Price DECIMAL(18, 2) NOT NULL,
+    Stock INT NOT NULL
+);
+```
+
+
