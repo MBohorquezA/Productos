@@ -1,0 +1,11 @@
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\bin\Debug\net8.0\Productos.Models.deps.json
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\bin\Debug\net8.0\Productos.Models.dll
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\bin\Debug\net8.0\Productos.Models.pdb
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\Productos.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\Productos.Models.AssemblyInfoInputs.cache
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\Productos.Models.AssemblyInfo.cs
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\Productos.Models.csproj.CoreCompileInputs.cache
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\Productos.Models.dll
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\refint\Productos.Models.dll
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\Productos.Models.pdb
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.Models\obj\Debug\net8.0\ref\Productos.Models.dll

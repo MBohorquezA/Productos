@@ -7,7 +7,7 @@
 3. Abrir la consola de administrador de paquetes y ejecutar este codigo Update-Database, la base de datos esta configurada a localhost con la autentificacion del windows, la linea de conexion se encuentra en DAL se llama "appsettings.json"
 
 4. ejecutar este código en la consola de SqlServer apuntando a la BDProductos 
-```
+```bash
 CREATE PROCEDURE dbo.InsertProduct
     @Name NVARCHAR(100),
     @Description NVARCHAR(255),
