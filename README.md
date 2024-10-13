@@ -4,7 +4,7 @@
 
 2. Seleccionar la capa "Productos.DAL" como proyecto de inicio
 
-3. Abrir la consola de administrador de paquetes y ejecutar este codigo Update-Database, la base de datos esta configurada a localhost con la autentificacion del windows, la linea de conexion se encuentra en DAL se llama "appsettings.json"
+3. Abrir la consola de administrador de paquetes y ejecutar este codigo Update-Database, la linea de conexion a la BD se encuentra en DAL se llama "appsettings.json"
 
 4. ejecutar este código en la consola de SqlServer apuntando a la BDProductos 
 ```bash

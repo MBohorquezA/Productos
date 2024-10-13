@@ -16,3 +16,4 @@ C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.BLL\bin\Debug\ne
 C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.BLL\obj\Debug\net8.0\Productos.BLL.csproj.AssemblyReference.cache
 C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.BLL\obj\Debug\net8.0\Producto.7EF8671B.Up2Date
 C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.BLL\bin\Debug\net8.0\appsettings.json
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.BLL\obj\Debug\net8.0\Productos.BLL.sourcelink.json

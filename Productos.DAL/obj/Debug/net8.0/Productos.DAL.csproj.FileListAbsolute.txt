@@ -16,3 +16,4 @@ C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.DAL\bin\Debug\ne
 C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.DAL\bin\Debug\net8.0\Productos.Models.pdb
 C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.DAL\obj\Debug\net8.0\Producto.042E20F9.Up2Date
 C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.DAL\bin\Debug\net8.0\appsettings.json
+C:\Users\ArkangelMonster02\Documents\prueba\Productos\Productos.DAL\obj\Debug\net8.0\Productos.DAL.sourcelink.json
